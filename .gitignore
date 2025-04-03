@@ -1,0 +1,11 @@
+__pycache__/qa_db.cpython-312.pyc
+__pycache__/qa_model.cpython-312.pyc
+model/sentence-transformers/multi-qa-MiniLM-L6-cos-v1/models--sentence-transformers--multi-qa-MiniLM-L6-cos-v1/.no_exist/b207367332321f8e44f96e224ef15bc607f4dbf0/added_tokens.json
+model/sentence-transformers/multi-qa-MiniLM-L6-cos-v1/models--sentence-transformers--multi-qa-MiniLM-L6-cos-v1/.no_exist/b207367332321f8e44f96e224ef15bc607f4dbf0/chat_template.jinja
+model/sentence-transformers/multi-qa-MiniLM-L6-cos-v1/models--sentence-transformers--multi-qa-MiniLM-L6-cos-v1/refs/main
+model/sentence-transformers/multi-qa-MiniLM-L6-cos-v1/models--sentence-transformers--multi-qa-MiniLM-L6-cos-v1/snapshots/b207367332321f8e44f96e224ef15bc607f4dbf0/config.json
+model/sentence-transformers/multi-qa-MiniLM-L6-cos-v1/models--sentence-transformers--multi-qa-MiniLM-L6-cos-v1/snapshots/b207367332321f8e44f96e224ef15bc607f4dbf0/model.safetensors
+model/sentence-transformers/multi-qa-MiniLM-L6-cos-v1/models--sentence-transformers--multi-qa-MiniLM-L6-cos-v1/snapshots/b207367332321f8e44f96e224ef15bc607f4dbf0/special_tokens_map.json
+model/sentence-transformers/multi-qa-MiniLM-L6-cos-v1/models--sentence-transformers--multi-qa-MiniLM-L6-cos-v1/snapshots/b207367332321f8e44f96e224ef15bc607f4dbf0/tokenizer_config.json
+model/sentence-transformers/multi-qa-MiniLM-L6-cos-v1/models--sentence-transformers--multi-qa-MiniLM-L6-cos-v1/snapshots/b207367332321f8e44f96e224ef15bc607f4dbf0/tokenizer.json
+model/sentence-transformers/multi-qa-MiniLM-L6-cos-v1/models--sentence-transformers--multi-qa-MiniLM-L6-cos-v1/snapshots/b207367332321f8e44f96e224ef15bc607f4dbf0/vocab.txt
